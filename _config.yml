@@ -2,14 +2,12 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: "/photorama"
+url: "http://akshaychandra92.github.io"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
+instagram_username: "akshaychandra10"
+github_username:  "akshaychandra92"
 discus_shortname: ""
 share: true
 
@@ -33,9 +31,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "http://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "http://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://akshaychandra92.github.io/gallery/"  
+  - JOURNAL: "http://akshaychandra92.github.io/journal/"
+  - ABOUT: "http://akshaychandra92.github.io/about/"
 
 # All translation keys
 translations:
