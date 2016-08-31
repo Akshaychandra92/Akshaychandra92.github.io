@@ -4,7 +4,7 @@ email: ""
 description: "Photo Journal"
 url: "http://akshaychandra92.github.io"
 baseurl: ""
-facebook_username: ""
+facebook_username: "akshay.chandra.10"
 twitter_username: ""
 instagram_username: "akshaychandra10"
 github_username:  "akshaychandra92"
@@ -13,7 +13,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Akshay Chandra
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
